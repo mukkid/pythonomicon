@@ -23,7 +23,7 @@ To see if the installation worked, open the terminal (on windows, press the wind
 installed correctly, it should show the version number that you installed. If so, you're all set!
 
 ## What do I need to start writing code?
-Technically, any text editor will work and is up to preference. However, I suggest using something like _Visual Studios Code_ for beginners. It has fancy highlighting and other tools already built into it.
+Technically, any text editor will work and is up to preference. However, I suggest using something like [Visual Studio Code](https://code.visualstudio.com/) for beginners. It has fancy highlighting and other tools already built into it.
 Just to be clear, the editor you choose to use does not fundamentally matter when programming. You can use notepad if you like. Just remember that you _cannot_ use a word processor such as MS Word or Google Docs.
 
 ## Writing our first program
