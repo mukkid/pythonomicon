@@ -19,7 +19,7 @@ you may find reason to use specific languages for specific tasks, but at this po
 ## How do I install Python?
 The installation executable can be found at the [Python Website](https://www.python.org/downloads/). Just click through the default options __BUT__ when you are given the 
 option of adding stuff to a PATH variable __select the option to do so__.
-To see if the installation worked, open the terminal (on windows, press the windows key + r, and type `cmd` and press enter). Then enter `python --version`. If Python is
+To see if the installation worked, open the terminal (on windows, press the windows key + r, and type `cmd` and press enter). Then type `python --version` and press enter. If Python is
 installed correctly, it should show the version number that you installed. If so, you're all set!
 
 ## What do I need to start writing code?
