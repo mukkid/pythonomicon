@@ -6,10 +6,10 @@ In essence, programming is just writing instructions for a computer in a way tha
 ## What do you mean by _understand_
 When we program, we usually write down our instructions in something called a _programming language_.
 A programming language is sort of like languages we already know (english, japanese, elvish, etc.). We use languages to convey messages to other things.
-In human languages, there's a lot of inplied and ambiguous messages that can be conveyed in very few words. For example, telling someone "Nice Going!" is usually
+In human languages, there's a lot of implied and ambiguous messages that can be conveyed in very few words. For example, telling someone "Nice Going!" is usually
 a compliment, but can be sometimes interpreted as a sarcastic insult ("Nice going, dumbass").
 
-When it comes to computers, they aren't very good at understanding ambiguous messages and can't really uncover inplications within language. Programming languages solve
+When it comes to computers, they aren't very good at understanding ambiguous messages and can't really uncover implications within language. Programming languages solve
 this problem by having the syntax and grammar rules be written in such a way that the meaning of what you write can only be interpreted in one way.
 
 ## Is there any particular reason for using Python?
