@@ -26,6 +26,10 @@ installed correctly, it should show the version number that you installed. If so
 Technically, any text editor will work and is up to preference. However, I suggest using something like [Visual Studio Code](https://code.visualstudio.com/) for beginners. It has fancy highlighting and other tools already built into it.
 Just to be clear, the editor you choose to use does not fundamentally matter when programming. You can use notepad if you like. Just remember that you _cannot_ use a word processor such as MS Word or Google Docs.
 
+### (If you did decide to use Visual Studio Code)
+If you did decide to use Visual Studio Code as your editor of choice, I would _highly_ recommend installing the python plugin. Your life will be made way easier and in real life, nobody programs without something similar to it.
+To do so, open Visual Studio Code, and click on the icon with the 4 blocks on the left bar (Extensions). Then search for the python extension and install it. It's probably the first search result that shows up.
+
 ## Writing our first program
 Every aspiring programmer's first program is basically the same thing. Write a program to output the phrase "Hello, World!" onto the screen. Pretty simple.
 Go ahead and open up a new file in your editor of choice and name it whatever you want. Just remember that you'll want to make the extension (the part of the filename after the dot `.`) as `.py`.
