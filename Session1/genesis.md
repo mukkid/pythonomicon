@@ -105,7 +105,7 @@ print(x)
 I am being assigned!
 ```
 See how we told the computer "Make `x` be the value of `'I am being assigned!'`". When used like this, we call `x`, a _Variable_. It's called that because the value of `x` is whatever we tell it to be.
-To go even further, there's nothing special about the name `x` in particular. We can call our variable `I_poop_this_many_times` (note the underscores) and use it like this:
+To go even further, there's nothing special about the name `x` in particular. We can call our variable `I_poop_this_many_times` if we liked (note the underscores) and use it like this:
 ```python
 I_poop_this_many_times = 4
 print(I_poop_this_many_times)
