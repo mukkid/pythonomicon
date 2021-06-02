@@ -20,7 +20,7 @@ However, there is also another way to run code. We can use something called the 
 
 ## The **REPL**?
 Yeah, the REPL. It's an abbreviation for **Read, Evaluate, and Print Loop**. Again, not something you need to know, but what it does is that it lets us type in a line
-of code, and it'll run instantly. We can then write another line, and it'll run that too. It's a handy tool that lets us mess around with programming without getting to formal with it.
+of code, and it'll run instantly. We can then write another line, and it'll run that too. It's a handy tool that lets us mess around with programming without getting too formal with it.
 Think of it as scratch space for experimenting. To use our basic python REPL, we can open it by opening the terminal (You do remember how to do that, right? Windows key + R, type `cmd` and press enter),
 and just typing `python` and pressing enter.
 If you did it right, it should look something like this:
