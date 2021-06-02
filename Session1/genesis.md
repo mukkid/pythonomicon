@@ -64,7 +64,7 @@ You may have also noticed that in an earlier example, we were able to do some ru
 1
 ```
 
-Those last one or two might be unfamiliar. using two stars (`**`) is the power operator. That example is saying _"Two to the power of four"_. The one after that is probably more unknown. The `%` operator
+Those last one or two might be unfamiliar. Using two stars (`**`) is the power operator. That example is saying _"Two to the power of four"_. The one after that is probably more unknown. The `%` operator
 is called the _Modulus_ operator. If you remember back to your youth, airport security was like division: simpler. When we did _9 / 4_, we used to say, _"How many times does 4 go into 9?"_. Well, 2 times, of course.
 But then what of the remainder? Before we learned fractions, we might have just said "9 / 4 is 2 with a remainder of 1". Now you might be catching on. That remainder is what the _modulus_ operator calculates. Go ahead
 and test it out with some other numbers in the REPL to see for yourself.
