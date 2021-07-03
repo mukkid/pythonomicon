@@ -102,7 +102,7 @@ Alright nerds pay attention. This is one of the most important concepts in progr
 
 <img src="https://render.githubusercontent.com/render/math?math=f(x) = x %2B 5">
 
-This defines a function that we're calling <img src="https://render.githubusercontent.com/render/math?math=f">, that takes in some <img src="https://render.githubusercontent.com/render/math?math=x">, and returns some other number. The way the function works is defined by <img src="https://render.githubusercontent.com/render/math?math=x %2B0 5">.
+This defines a function that we're calling <img src="https://render.githubusercontent.com/render/math?math=f">, that takes in some <img src="https://render.githubusercontent.com/render/math?math=x">, and returns some other number. The way the function works is defined by <img src="https://render.githubusercontent.com/render/math?math=x %2B 5">.
 
 Let's see how this works in python:
 ```python
