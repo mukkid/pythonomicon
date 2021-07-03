@@ -100,9 +100,9 @@ Essentially, you just take the type you want, in this case `int`, and just slap 
 ## Function Over Form
 Alright nerds pay attention. This is one of the most important concepts in programming. You might have noticed that we've been using these things that end with parentheses. Stuff like `input()`, `sorted()`, and even `print()`. These are what we call _functions_. A _function_ is sort of like a box where you put stuff in, and it does something and gives something back to you. For instance, you pass a list of stuff to the `sorted()` function, and it does... something, and gives you back another list with your stuff sorted. Another example is if you remember back to math(s) class where you could write a function for graphs. Stuff like:
 
-<img src="https://render.githubusercontent.com/render/math?math=f(x) = x %20 5">
+<img src="https://render.githubusercontent.com/render/math?math=f(x) = x %2B 5">
 
-This defines a function that we're calling <img src="https://render.githubusercontent.com/render/math?math=f">, that takes in some <img src="https://render.githubusercontent.com/render/math?math=x">, and returns some other number. The way the function works is defined by <img src="https://render.githubusercontent.com/render/math?math=x %20 5">.
+This defines a function that we're calling <img src="https://render.githubusercontent.com/render/math?math=f">, that takes in some <img src="https://render.githubusercontent.com/render/math?math=x">, and returns some other number. The way the function works is defined by <img src="https://render.githubusercontent.com/render/math?math=x %2B0 5">.
 
 Let's see how this works in python:
 ```python
