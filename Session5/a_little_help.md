@@ -62,6 +62,7 @@ r
 
 "Alright that's cool I guess, but I still don't get what he's so worked up about" might be echoing around in that noggin of yours. The fact is, it's not true that `for` loops can iterate over only lists, as we can see above. Instead we find (or will find in the future) that `for` loops can iterate over a huge number of things. We call things that `for` loops can iterate through, _iterables_. Makes sense. As I mentioned way above
 >`range()` returns a list (not really, but just go with it)
+>
 >                   --- Sun Tzu, 2021
 
 It turns out that `range()` _doesn't_ return a list, but something else entirely. _What_ that something is, is something that I don't think we're ready for yet. At the very least, we can call that _something_ an _iterable_ since we are able to iterate through it.
