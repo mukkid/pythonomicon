@@ -5,8 +5,8 @@ poopin_on_the_toiler = sitting_on_the_toilet and pants_are_down
 
 print(poopin_on_the_toiler)
 
-if (x % 3 == 0) and (x % 5 == 0):
-    ...
+# if (x % 3 == 0) and (x % 5 == 0):
+#     ...
 
 day = 'monday'
 is_it_a_weekend = (day == 'saturday') or (day == 'sunday')
@@ -31,8 +31,8 @@ days_of_the_week = ['monday', 'tuesday', 'wednesday', 'thursday', 'friday', 'sat
 
 print(days_of_the_week[4])
 print(len(days_of_the_week))
-days_of_the_week[69] !!!!!! error
-print(days_of_the_week[-1]) !!!! last thing
+days_of_the_week[69]
+print(days_of_the_week[-1])
 
 first_day = days_of_the_week[0]
 second_day = days_of_the_week[1]
@@ -58,7 +58,6 @@ while index < len(ice_cream):
     print('My favorite flavor is', flavor)
     index += 1
 
-`for` loop
 for flavor in ice_cream:
     print('My favorite flavor is', flavor)
 
